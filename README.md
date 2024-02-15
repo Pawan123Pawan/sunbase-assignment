@@ -26,7 +26,7 @@ The Visual Form Designer is a web application that allows users to create and cu
 
 ## Live Demo
 
-A live demo of the project can be accessed [https://pawan123pawan.github.io/sunbase-assignment/](#).
+A live demo of the project can be accessed [here](https://pawan123pawan.github.io/sunbase-assignment/).
 
 ## Contributors
 
